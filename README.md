@@ -22,6 +22,11 @@
 - **최적화된 렌더링**: URP(Universal Render Pipeline) 기반의 모바일 VR 기기 프레임 최적화
 
 ---
+## 사용한 기술 & tool
+-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+---
 
 ## 🛠 Tech Stack & Environment
 
