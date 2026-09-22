@@ -8,9 +8,9 @@
 
 ## 📸 Demo & Screenshots
 
-| 메인 플레이 화면 | 조작 / 상호작용 |
-| :---: | :---: |
-| *(플레이 GIF 또는 이미지 링크 입력)* | *(플레이 GIF 또는 이미지 링크 입력)* |
+| 메인 플레이 화면 |
+| :---: | 
+| *(플레이 GIF 또는 이미지 링크 입력)* |
 
 ---
 
@@ -22,7 +22,7 @@
 - **최적화된 렌더링**: URP(Universal Render Pipeline) 기반의 모바일 VR 기기 프레임 최적화
 
 ---
-## 사용한 기술 & tool
+## 💻 Languages and Tools
 -[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
@@ -61,7 +61,7 @@ Assets/
 ├── Scenes/             # 메인 게임 및 테스트 씬
 ├── Scripts/            # C# 로직 스크립트
 └── Shaders/            # Custom Shader Graph 파일
-Languages and Tools
+
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 [![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) 
