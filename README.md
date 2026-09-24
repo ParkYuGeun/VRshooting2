@@ -10,7 +10,9 @@
 
 | 메인 플레이 화면 |
 | :---: | 
-| *(플레이 GIF 또는 이미지 링크 입력)* |
+| <img src = ./Screenshot/vr2-1.PNG width = 600 height = 600 alt = vr2-1> |
+| <img src = ./Screenshot/vr2-2.PNG width = 600 height = 600 alt = vr2-2> |
+| <img src = ./Screenshot/vr2-3.PNG width = 600 height = 600 alt = vr2-3> |
 
 ---
 
